@@ -1,0 +1,12 @@
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\bin\Debug\net6.0\DATA.deps.json
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\bin\Debug\net6.0\DATA.dll
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\bin\Debug\net6.0\DATA.pdb
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.csproj.AssemblyReference.cache
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.AssemblyInfoInputs.cache
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.AssemblyInfo.cs
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.csproj.CoreCompileInputs.cache
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.dll
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\refint\DATA.dll
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\DATA.pdb
+C:\Alvin\Advantage Solutions\Mercury Project\repos\MVCProject\DATA\obj\Debug\net6.0\ref\DATA.dll
